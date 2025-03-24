@@ -2,6 +2,7 @@
 
 ![Vibe Coding Badge](https://img.shields.io/badge/-VibeCoding-blueviolet)
 
+
 ## 🚀 Introduction
 
 Vibe coding isn't about skipping hard work—it's about **amplifying high-level thinking**. In the world of bioinformatics, where biology meets computation, vibe coding allows us to focus on algorithms, biology, and discovery—not boilerplate code.
@@ -109,3 +110,13 @@ Stay sharp. Stay scientific. And vibe on.
 
 — Andrés Julián Gutiérrez Escobar, PhD  
 OG Vibe Coder
+
+--- 
+
+## 📣 Citation
+
+If you reference the Vibe Coding Manifesto in your work, please cite:
+
+> Gutierrez-Escobar AJ. (2025). *Vibe Coding Principles for Bioinformaticians*. Zenodo. https://doi.org/10.5281/zenodo.15079867
+
+---
